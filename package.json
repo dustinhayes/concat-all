@@ -1,0 +1,26 @@
+{
+  "name": "concat-all",
+  "version": "1.0.0",
+  "description": "Convert a multidimensional array into a one dimensional array",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dustinhayes/concat-all.git"
+  },
+  "keywords": [
+    "array",
+    "concatAll",
+    "concat",
+    "filter",
+    "multidimensional"
+  ],
+  "author": "dustinhayes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dustinhayes/concat-all/issues"
+  },
+  "homepage": "https://github.com/dustinhayes/concat-all"
+}

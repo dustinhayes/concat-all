@@ -1,2 +1,2 @@
 # concat-all
-Convert a two dimensional array to a one dimensional array
+Convert a multidimensional array into a one dimensional array
